@@ -1,0 +1,5 @@
+{
+  "name": "Lumina",
+  "description": "An intelligent research assistant and knowledge graph powered by Gemini and SQLite.",
+  "requestFramePermissions": []
+}
